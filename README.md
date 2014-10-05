@@ -1,4 +1,4 @@
-haxexah - a haxe UI library.
+haxexah - a haxe UI library for touch devices.
 
-=======
 
+  
